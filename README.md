@@ -1,2 +1,2 @@
 # online-grocery-ordering
-A C++ program that reads a file of data from an online ordering system and two databases (customers and items), parses the information, processes the order, and prints out a full store, formatted, human-readable receipt containing all important information.
+This project contains a database of customers, a database of items, and a file containing data about online orders at a grocery store. The program reads all the information, failing gracefully when necessary, parses the information, and write it to a file in a human-readable, pleasing format. My contributions to the project include the implementations of all classes and functions and the test cases.
